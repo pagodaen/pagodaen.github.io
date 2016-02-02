@@ -1,31 +1,32 @@
 ---
 layout: page
-title: O sdružení
-permalink: /o_nas/
+title: About
+permalink: /about/
 ---
 
-**Sdružení přijímá nové členy!**
+**We welcome new members!**
 
-Chcete pomoci s propagací hry Go? Napište nám e-mail:
+Do you want to help with Go propagation? Send us an e-mail:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
-## Informace
+## About Pagoda
+
+Pagoda is a non-profit organization focusing on the propagation of Go, mostly in the Czech Republic.
+The organization was established in 2007 and its members take part in organizing Go tournaments and 
+further actions related with the wonderful game of Go.
 
 
-Občanské sdružení Pagoda, o.s. je nezisková organizace zaměřená na podporu a prezentaci deskové hry Go. Sdružení bylo založeno v létě 2007 a jeho členové se aktivně podílejí na organizaci turnajů a dalších akcí souvisejících s Go především v Praze a nejbližším okolí.
-
-
-|Občanské sdružení Pagoda, o.s.
+|Pagoda
 |:--- | :---
-|Sídlo: | {{ site.adresa }}
+|Address: | {{ site.adresa }}
 |IČO:   | {{ site.ico }}
-|Bankovní Spojení: | {{ site.banka }}
+|Bank: | {{ site.banka }}
 
 <br />
 
-## Členové Sdružení
+## Members
 
-| Jméno | Příjmení |   Email   |
+| Name | Surname |   E-mail   |
 | ---: | :--- | :--------: | ---:
 | Aleš | Cieply | &nbsp; cieply@ujf.cas.cz |
 | Vladimír | Daněk | &nbsp; vladimir.danek@treygo.cz | 

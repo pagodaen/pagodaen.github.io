@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
     Non-profit organization focusing on propagation of the
     game of Go, mostly in the Czech Republic.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.pagoda.cz" # the base hostname & protocol for your site
+url: "http://en.pagoda.cz" # the base hostname & protocol for your site
 adresa: "Brzická 365, 190 16 Praha 21"
 ico: "22664505"
 banka: "Raiffeisenbank a.s. Praha, č.ú. 2942556001 / 5500"
