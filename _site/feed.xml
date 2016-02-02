@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pagoda, o.s.</title>
+    <description>Občanské sdružení Pagoda je nezisková organizace zaměřená na podporu a prezentaci deskové hry Go.
+</description>
+    <link>http://www.pagoda.cz/</link>
+    <atom:link href="http://www.pagoda.cz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Jan 2016 20:25:31 +0100</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2016 20:25:31 +0100</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Turnaj o pohár Korejského velvyslance</title>
+        <description>&lt;p&gt;Tradiční &lt;strong&gt;45. pražský Go Turnaj pod záštitou Korejského velvyslance&lt;/strong&gt; se koná &lt;strong&gt;23.–24. dubna 2016&lt;/strong&gt;,
+v prostorách Hotelu Duo. Více informací naleznete na &lt;a href=&quot;http://kac.j2m.cz/index_cz.html&quot;&gt;Stránce Turnaje&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Jan 2016 19:46:42 +0100</pubDate>
+        <link>http://www.pagoda.cz/2016/01/18/kac_2016.html</link>
+        <guid isPermaLink="true">http://www.pagoda.cz/2016/01/18/kac_2016.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Nové stránky sdružení</title>
+        <description>&lt;p&gt;By měly být jednoduché a stručné.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Jan 2016 18:35:42 +0100</pubDate>
+        <link>http://www.pagoda.cz/2016/01/18/nove_stranky.html</link>
+        <guid isPermaLink="true">http://www.pagoda.cz/2016/01/18/nove_stranky.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
