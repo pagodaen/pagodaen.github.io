@@ -28,17 +28,15 @@ further actions related with the wonderful game of Go.
 
 | Name | Surname |   E-mail   |
 | ---: | :--- | :--------: | ---:
-| Aleš | Cieply | &nbsp; cieply@ujf.cas.cz |
-| Vladimír | Daněk | &nbsp; vladimir.danek@treygo.cz | 
-| Petr | Souček | &nbsp; balamut@balamut.cz | 
-| Vláďa | Bínovec | &nbsp; vbinovec@gmail.com | 
-| Jitka | Bártová | &nbsp; JitkaBartova@seznam.cz | 
-| Jan | Hora | &nbsp; hezi@seznam.cz | 
-| Simon | Zeckarias | &nbsp; simon.z@centrum.cz | 
-| Marie | Šimková | &nbsp; smarie@centrum.cz |
-| Michal | Timko | &nbsp; timko.michal@centrum.cz |
-| Jan | Vráblík | &nbsp; j.vrablik@seznam.cz |
-| Jaroslav | Kotowski | &nbsp; jaroslav.kotowski@gmail.com |
-| Josef | Moudřík | &nbsp; j.moudrik@gmail.com |
-
+| Aleš | Cieply | &nbsp; cieply -AT- ujf.cas.cz |
+| Vladimír | Daněk | &nbsp; vladimir.danek -AT- treygo.cz | 
+| Petr | Souček | &nbsp; balamut -AT- balamut.cz | 
+| Vláďa | Bínovec | &nbsp; vbinovec -AT- gmail.com | 
+| Jitka | Bártová | &nbsp; JitkaBartova -AT- seznam.cz | 
+| Jan | Hora | &nbsp; hezi -AT- seznam.cz | 
+| Marie | Šimková | &nbsp; smarie -AT- centrum.cz |
+| Michal | Timko | &nbsp; timko.michal -AT- centrum.cz |
+| Jan | Vráblík | &nbsp; j.vrablik -AT- seznam.cz |
+| Jaroslav | Kotowski | &nbsp; jaroslav.kotowski -AT- gmail.com |
+| Josef | Moudřík | &nbsp; j.moudrik -AT- gmail.com |
 
