@@ -6,4 +6,4 @@ date:   2016-01-18 19:46:42 +0100
 
 Traditional **45th Prague Go Tournament, Korean Ambassador Cup** is taking place **23&ndash;24 April 2016**
 in Hotel Duo, Prague. For more information, have a look on the
-[Tournament Website](http://kac.j2m.cz/index_en.html).
+[Tournament Website](http://kac.j2m.cz/index.html).
