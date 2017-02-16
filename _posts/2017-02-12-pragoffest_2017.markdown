@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Go presentation at PragoFFest"
+date:   2017-02-12 16:50:00 +0100
+---
+
+A Czech pop-culture festival PragoFFest took place on February 2&ndash;5 2017, and we have
+been there to show the marvelous game of Go to the public!
+
+
+###<a href="https://goo.gl/photos/eLVLWmpTyYTb4Mkn7">Photos here!</a>
