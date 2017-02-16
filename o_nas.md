@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-**We welcome new members!**
+Are you interested in **Go demonstration for your company**? 
 
-Do you want to help with Go propagation? Send us an e-mail:
+Do you want to help with **Go propagation**?
+
+Send us an e-mail:
 <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ## About Pagoda
 
 Pagoda is a non-profit organization focusing on the propagation of Go, mostly in the Czech Republic.
-The organization was established in 2007 and its members take part in organizing Go tournaments and 
+The organization was established in 2007 and its members take part in **organizing Go tournaments** and 
 further actions related with the wonderful game of Go.
 
 
