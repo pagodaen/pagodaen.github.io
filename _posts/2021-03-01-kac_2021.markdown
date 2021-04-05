@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Korean Ambassador Cup 2020"
+date:   2021-03-01 15:08:42 +0100
+---
+
+Traditional **49th Prague Go Tournament, Korean Ambassador Cup** is taking place **23&ndash;25 April 2021**,
+this year fully online, because of the Coronavirus situation.
+For more information, have a look on the [Tournament Website](http://kac.pagoda.cz/).
