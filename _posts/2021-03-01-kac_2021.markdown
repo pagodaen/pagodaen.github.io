@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Korean Ambassador Cup 2021 - Online"
+title:  "Korean Ambassador Cup 2021 &ndash; Online"
 date:   2021-03-01 15:08:42 +0100
 ---
 
